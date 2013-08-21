@@ -6,7 +6,7 @@ package arrays;
 
 /**
  *
- * @author simon
+ * @author simon and reviews by eyebe(yespapi)
  */
 public class Arrays {
 
